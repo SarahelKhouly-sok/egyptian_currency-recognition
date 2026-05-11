@@ -58,17 +58,6 @@ The dataset consists of labeled Egyptian currency images covering different deno
 
 ---
 
-## 📊 Model Performance
-
-The trained model achieved high accuracy on the testing dataset.
-
-| Metric    | Score |
-| --------- | ----- |
-| Precision | 99.8% |
-| Recall    | 100%  |
-| mAP50     | 99.4% |
-
----
 
 ## 📁 Project Structure
 
