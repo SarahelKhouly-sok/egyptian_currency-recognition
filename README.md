@@ -189,8 +189,3 @@ Mechanical Engineering Graduate | Data Science & AI Enthusiast
 * LinkedIn: https://www.linkedin.com/in/sarah-el-khouly-423307247/ 
 * GitHub: https://github.com/SarahelKhouly-sok 
 
----
-
-## ⭐ Acknowledgment
-
-Special thanks to the **Ultralytics YOLOv8** team and the open-source AI community for providing powerful tools that made this project possible.
