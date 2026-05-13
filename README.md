@@ -142,6 +142,8 @@ The application will open in your browser automatically.
 
 The model accurately detects multiple Egyptian banknotes simultaneously with high confidence.
 <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/f7c10953-bffe-4d09-b68e-c0ef08c8d524" />
+<img width="1920" height="1920" alt="image" src="https://github.com/user-attachments/assets/9a281194-8979-4b6d-a4c6-3f3b4d8d3402" />
+
 
 
 ### 2. Confusion Matrix
@@ -167,7 +169,6 @@ Loss curves show stable convergence while precision and recall rapidly improve d
 * Streamlit
 * NumPy
 * Matplotlib
-* PIL
 
 ---
 
@@ -182,7 +183,6 @@ Loss curves show stable convergence while precision and recall rapidly improve d
 ---
 
 ## 👨‍💻 Developer
-
 **Sarah El Khouly**
 Mechanical Engineering Graduate | Data Science & AI Enthusiast
 
